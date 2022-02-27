@@ -1,6 +1,8 @@
 # TesteDUQUE
 
-Arquivo de teste para os alunos de Pensamento Computacioanal Colégio Estadualdo Campo Duque de Caxias
+Arquivo de teste para os alunos da disciplina de Pensamento Computacioanal 
+
+Colégio Estadualdo Campo Duque de Caxias
 
 Antônio Olinto - PR
 
