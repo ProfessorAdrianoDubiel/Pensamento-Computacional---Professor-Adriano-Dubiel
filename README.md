@@ -1,2 +1,11 @@
-# testeDUQUE
-Arquivo de teste para os alunmos do Colégio Estadualdo Campo Duque de Caxias
+# TesteDUQUE
+
+Arquivo de teste para os alunos de Pensamento Computacioanal Colégio Estadualdo Campo Duque de Caxias
+
+Antônio Olinto - PR
+
+Turmas: 1A e 1B
+
+NRE União da Vitória
+
+Equipes:
