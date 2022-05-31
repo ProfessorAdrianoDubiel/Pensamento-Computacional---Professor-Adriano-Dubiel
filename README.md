@@ -11,7 +11,7 @@ Turmas: 1A e 1B
 NRE União da Vitória
 
 1B - TIMES
-Isabela, Daniel, Grazielle, Larissa, Janaina/
+Isabela, Daniel, Grazielle, Larissa, Janaina\
 Gabriel, Eduarda, Alana, Thiago, Letícia/
 Renan S, Wesley, William, Sérgio, Fabrício/
 Nayara, Michely, Gabrieli, Mª Eduuarda/
