@@ -1,4 +1,4 @@
-# COÉGIO ESTADUAL DO CAMPO DUQUE DE CAXIAS
+# COLÉGIO ESTADUAL DO CAMPO DUQUE DE CAXIAS
 
 Arquivo de teste para os alunos da disciplina de Pensamento Computacioanal 
 
